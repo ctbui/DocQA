@@ -35,3 +35,6 @@ Contributions to this app are welcome! If you have any ideas, suggestions, or bu
 This project is licensed under the MIT License.
 
 🎉 Thank you 🤗 Happy question answering! 🌟
+
+
+NB : issue with path & pipenv, use virtualenv
